@@ -1,5 +1,5 @@
 # MarumasaLicense v1.0
-### [Click here for English](https://github.com/malken21/MarumasaLicenses/blob/main/MarumasaLicense_v1.0/LICENSE-ja.md)
+### [Click here for English](https://github.com/malken21/MarumasaLicenses/blob/main/MarumasaLicense_v1.0/LICENSE-en.md)
 ## 必須
 📄著作権の表示&nbsp;&nbsp;&nbsp;📄ソースの明示
 <br>
